@@ -1,0 +1,7 @@
+2025-01-26 13:41:11.541 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-26 13:41:11.541 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-26 13:41:11.541 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-26 13:41:11.882 [info] Started local extension host with pid 2571.
+2025-01-26 13:41:12.725 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-01-26 13:41:14.486 [info] [perf] Render performance baseline is 32ms
+2025-01-26 13:41:15.644 [info] [Blackboxapp.blackbox]: Command `extension.saveCodeToCloud` already registered by BLACKBOXAI #1 Coding Agent +10 Million Developers (Blackboxapp.blackbox)
