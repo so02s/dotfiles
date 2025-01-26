@@ -1,0 +1,20 @@
+2025-01-24 18:26:31.381 [info] [Info  - 6:26:31 PM] (13778) Server root directory: file:///home/elf/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-01-24 18:26:31.438 [info] [Info  - 6:26:31 PM] (13778) Pylance language server 2024.12.1 (pyright version 1.1.389, commit ce1325fc) starting
+2025-01-24 18:26:31.455 [info] [Info  - 6:26:31 PM] (13778) Starting service instance "monitor_for_meeting_room"
+2025-01-24 18:26:31.727 [info] [Info  - 6:26:31 PM] (13778) Setting environmentName for service "monitor_for_meeting_room": "3.13.1 (.venv venv)"
+2025-01-24 18:26:31.734 [info] [Info  - 6:26:31 PM] (13778) Setting pythonPath for service "monitor_for_meeting_room": "/home/elf/prog/monitor_for_meeting_room/.venv/bin/python"
+2025-01-24 18:26:31.760 [info] [Info  - 6:26:31 PM] (13778) No include entries specified; assuming /home/elf/prog/monitor_for_meeting_room
+2025-01-24 18:26:31.772 [info] [Info  - 6:26:31 PM] (13778) Auto-excluding **/node_modules
+2025-01-24 18:26:31.782 [info] [Info  - 6:26:31 PM] (13778) Auto-excluding **/__pycache__
+2025-01-24 18:26:31.783 [info] [Info  - 6:26:31 PM] (13778) Auto-excluding **/.*
+2025-01-24 18:26:31.784 [info] [Info  - 6:26:31 PM] (13778) Assuming Python version 3.13.1.final.0
+2025-01-24 18:26:31.800 [info] [Info  - 6:26:31 PM] (13778) Found 7 source files
+2025-01-24 18:26:32.185 [info] [Info  - 6:26:32 PM] (13778) Background analysis(1) root directory: file:///home/elf/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-01-24 18:26:32.188 [info] [Info  - 6:26:32 PM] (13778) Background analysis(1) started
+2025-01-24 18:26:32.266 [info] [Info  - 6:26:32 PM] (13778) Indexer background runner(2) root directory: file:///home/elf/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist (index)
+2025-01-24 18:26:32.266 [info] [Info  - 6:26:32 PM] (13778) Indexing(2) started
+2025-01-24 18:26:32.585 [info] [Info  - 6:26:32 PM] (13778) scanned(2) 67 files over 1 exec env
+2025-01-24 18:26:32.732 [info] [Info  - 6:26:32 PM] (13778) indexed(2) 67 files over 1 exec env
+2025-01-24 18:26:32.757 [info] [Info  - 6:26:32 PM] (13778) Indexing finished(2).
+2025-01-24 18:26:41.181 [info] (Client) The existing extension didn't exit within 10 seconds. New instance will start, but you might encounter issues.
+2025-01-24 18:26:41.182 [info] (Client) Pylance async client (2024.12.1) started with python extension (2024.22.2)

@@ -1,0 +1,7 @@
+Host monitor_circle
+    HostName 192.168.169.197
+    User monitor
+
+Host monitor
+    HostName 192.168.169.
+    User monitor

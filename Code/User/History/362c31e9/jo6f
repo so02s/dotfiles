@@ -1,0 +1,15 @@
+# Используем базовый образ Arch Linux
+FROM archlinux:latest
+
+# Устанавливаем необходимые пакеты
+RUN pacman -Syy --noconfirm
+RUN pacman -Syu --noconfirm base-devel git
+RUN pacman -Sy --noconfirm yay
+RUN yay -Sy --noconfirm plasticity-bin
+RUN pacman -Scc --noconfirm
+
+# Устанавливаем рабочую директорию
+WORKDIR /app
+
+# Команда для запуска plasticity-bin
+CMD ["plasticity"]

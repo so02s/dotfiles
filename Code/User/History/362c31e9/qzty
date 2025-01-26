@@ -1,0 +1,21 @@
+# Используем базовый образ Arch Linux
+FROM testcab/yay:latest
+
+# Устанавливаем необходимые пакеты
+RUN pacman -Syy --noconfirm
+RUN pacman -Syu --noconfirm base-devel git
+
+RUN groupadd -g 1000 yayuser
+RUN useradd -u 1000 -g yayuser -m yayuser
+
+USER yayuser
+
+RUN git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
+RUN yay -Sy --noconfirm plasticity-bin
+RUN pacman -Scc --noconfirm
+
+# Устанавливаем рабочую директорию
+WORKDIR /app
+
+# Команда для запуска plasticity-bin
+CMD ["plasticity"]

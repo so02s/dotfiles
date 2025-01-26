@@ -1,0 +1,14 @@
+2025/01/26-13:29:02.139 8b12 Reusing MANIFEST /home/elf/.config/Code/WebStorage/5/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/01/26-13:29:02.139 8b12 Recovering log #125
+2025/01/26-13:29:02.144 8b12 Reusing old log /home/elf/.config/Code/WebStorage/5/IndexedDB/indexeddb.leveldb/000125.log 
+2025/01/26-13:29:02.144 8b12 Delete type=2 #124
+2025/01/26-13:29:02.188 8b2a Level-0 table #130: started
+2025/01/26-13:29:02.189 8b2a Level-0 table #130: 667 bytes OK
+2025/01/26-13:29:02.190 8b2a Delete type=0 #125
+2025/01/26-13:29:02.191 8b12 Manual compaction at level-0 from '\x00$\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00%\x00\x00\x00' @ 0 : 0; will stop at '\x00$\x00\x00\x05' @ 731 : 1
+2025/01/26-13:29:02.191 8b12 Compacting 1@0 + 1@1 files
+2025/01/26-13:29:02.192 8b12 Generated table #131@0: 27 keys, 1107 bytes
+2025/01/26-13:29:02.192 8b12 Compacted 1@0 + 1@1 files => 1107 bytes
+2025/01/26-13:29:02.193 8b12 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/01/26-13:29:02.193 8b12 Delete type=2 #130
+2025/01/26-13:29:02.193 8b12 Manual compaction at level-0 from '\x00$\x00\x00\x05' @ 731 : 1 .. '\x00%\x00\x00\x00' @ 0 : 0; will stop at (end)

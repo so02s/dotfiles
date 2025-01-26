@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <link rel="stylesheet" href="./css/main.css" />
+</head>
+
+<body>
+  <div class="element">
+    <div class="element-x">
+      <div class="overlap-group">
+        <div class="text-wrapper">Занятые слоты:</div>
+        <div class="frame">
+          
+          <div class="div-wrapper">
+            <div class="div">09:00-10:00</div>
+          </div>
+          <div class="frame-2">
+            <div class="text-wrapper-2">sorencoa</div>
+          </div>
+          
+          <div class="div-wrapper">
+            <div class="div">10:00-11:00</div>
+          </div>
+          <div class="frame-2">
+            <div class="text-wrapper-2">john_doe</div>
+          </div>
+          
+          <div class="div-wrapper">
+            <div class="div">11:00-12:00</div>
+          </div>
+          <div class="frame-2">
+            <div class="text-wrapper-2">jane_smith</div>
+          </div>
+          
+        </div>
+        <div class="text-wrapper-3">СВОБОДНО</div>
+        <div class="group">
+          <div class="rectangle"></div>
+        </div>
+        <path id="textPath" d="M 250 250 m -150, 0 a 150,150 0 1,1 300,0 a 150,150 0 1,1 -300,0" fill="none" />
+
+        <!-- Текст, который обвит -->
+        <text font-family="Arial" font-size="18" fill="black">
+          <textPath xlink:href="#textPath">
+          Здесь может быть ваш текст, который обвит вокруг круга.
+          Здесь может быть ваш текст, который обвит вокруг круга.
+          </textPath>
+        </text>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>

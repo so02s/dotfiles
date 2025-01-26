@@ -1,0 +1,12 @@
+FROM testcab/yay:latest
+
+RUN sudo su
+RUN --user=root pacman -Syy
+RUN exit
+RUN yay -S --noconfirm plasticity-bin
+
+# Устанавливаем рабочую директорию
+WORKDIR /app
+
+# Команда для запуска plasticity-bin
+CMD ["plasticity"]

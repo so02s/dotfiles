@@ -1,0 +1,9 @@
+FROM testcab/yay:latest
+
+RUN yay -Sy --noconfirm plasticity-bin
+
+# Устанавливаем рабочую директорию
+WORKDIR /app
+
+# Команда для запуска plasticity-bin
+CMD ["plasticity"]

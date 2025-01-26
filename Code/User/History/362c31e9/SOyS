@@ -1,0 +1,14 @@
+FROM testcab/yay:latest
+
+ARG user=makepkg
+
+USER root
+RUN pacman -Syy
+USER $user
+RUN yay -S --noconfirm plasticity-bin
+
+# Устанавливаем рабочую директорию
+WORKDIR /app
+
+# Команда для запуска plasticity-bin
+CMD ["plasticity"]

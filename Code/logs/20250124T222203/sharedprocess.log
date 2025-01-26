@@ -1,0 +1,14 @@
+2025-01-24 22:22:06.934 [info] Getting Manifest... blackboxapp.blackboxagent
+2025-01-24 22:22:06.999 [info] Installing extension: blackboxapp.blackboxagent {"context":{"extensionInstallSource":"command"},"isMachineScoped":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/elf/.vscode/extensions/extensions.json","path":"/home/elf/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.0","date":"2024-12-11T02:29:09.626Z"}}
+2025-01-24 22:22:09.707 [info] Extension signature verification result for blackboxapp.blackboxagent: UnknownError. Executed: true. Duration: 18ms.
+2025-01-24 22:22:10.106 [info] Extracted extension to file:///home/elf/.vscode/extensions/blackboxapp.blackboxagent-2.8.22: blackboxapp.blackboxagent
+2025-01-24 22:22:10.117 [info] Renamed to /home/elf/.vscode/extensions/blackboxapp.blackboxagent-2.8.22
+2025-01-24 22:22:10.130 [info] Marked extension as uninstalled blackboxapp.blackboxagent-2.8.21
+2025-01-24 22:22:10.143 [info] Extension installed successfully: blackboxapp.blackboxagent vscode-userdata:/home/elf/.vscode/extensions/extensions.json
+2025-01-24 22:22:10.214 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/elf/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/elf/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)

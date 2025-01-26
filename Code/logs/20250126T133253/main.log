@@ -1,0 +1,5 @@
+2025-01-26 13:32:53.842 [info] update#setState idle
+2025-01-26 13:33:23.799 [info] update#setState checking for updates
+2025-01-26 13:33:23.807 [info] update#setState available for download
+2025-01-26 13:34:15.073 [info] Extension host with pid 1529 exited with code: 0, signal: unknown.
+2025-01-26 13:35:21.487 [info] Extension host with pid 1744 exited with code: 0, signal: unknown.

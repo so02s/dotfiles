@@ -1,0 +1,7 @@
+Host monitor_circle
+    HostName 
+    User monitor
+
+Host monitor
+    HostName 
+    User monitor

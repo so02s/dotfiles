@@ -1,0 +1,7 @@
+# connection conf
+URL=""
+ROOM_NUMBER=""
+ROOM_NAME=""
+
+# "circle" or "rectangle"
+DISPL=""

@@ -1,0 +1,75 @@
+[colors.primary]
+background = "#282828"
+foreground = "#ebdbb2"
+dim_foreground = "#ebdbb2"
+bright_foreground = "#ebdbb2"
+
+[colors.cursor]
+text = "#282828"
+cursor = "#928374"
+
+[colors.vi_mode_cursor]
+text = "#282828"
+cursor = "#b16286"  # Можно выбрать любой цвет, например, purple
+
+[colors.search.matches]
+foreground = "#282828"
+background = "#83a598"
+
+[colors.search.focused_match]
+foreground = "#282828"
+background = "#8ec07c"
+
+[colors.footer_bar]
+foreground = "#282828"
+background = "#83a598"
+
+[colors.hints.start]
+foreground = "#282828"
+background = "#d3869b"
+
+[colors.hints.end]
+foreground = "#282828"
+background = "#83a598"
+
+[colors.selection]
+text = "#928374"
+background = "#ebdbb2"
+
+[colors.normal]
+black = "#665c54"
+red = "#cc241d"
+green = "#98971a"
+yellow = "#d79921"
+blue = "#458588"
+magenta = "#b16286"
+cyan = "#689d6a"
+white = "#a89984"
+
+[colors.bright]
+black = "#7c6f64"
+red = "#fb4934"
+green = "#b8bb26"
+yellow = "#fabd2f"
+blue = "#83a598"
+magenta = "#d3869b"
+cyan = "#8ec07c"
+white = "#bdae93"
+
+[colors.dim]
+black = "#665c54"
+red = "#cc241d"
+green = "#98971a"
+yellow = "#d79921"
+blue = "#458588"
+magenta = "#b16286"
+cyan = "#689d6a"
+white = "#a89984"
+
+[[colors.indexed_colors]]
+index = 16
+color = "#83a598"
+
+[[colors.indexed_colors]]
+index = 17
+color = "#8ec07c"

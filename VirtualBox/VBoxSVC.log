@@ -1,0 +1,324 @@
+00:00:00.000153 main     VirtualBox XPCOM Server 7.1.6 r167084 linux.amd64 (Jan 21 2025 22:19:22) release log
+00:00:00.000155 main     Log opened 2025-01-24T19:57:18.683402000Z
+00:00:00.000156 main     Build Type: release
+00:00:00.000157 main     OS Product: Linux
+00:00:00.000158 main     OS Release: 6.12.10-arch1-1
+00:00:00.000159 main     OS Version: #1 SMP PREEMPT_DYNAMIC Sat, 18 Jan 2025 02:26:57 +0000
+00:00:00.000177 main     DMI Product Name: VivoBook_ASUSLaptop X571LH_F571LH
+00:00:00.000184 main     DMI Product Version: 1.0
+00:00:00.000188 main     Firmware type: UEFI
+00:00:00.000600 main     Secure Boot: Disabled
+00:00:00.000640 main     Host RAM: 15824MB (15.4GB) total, 13408MB (13.0GB) available
+00:00:00.000643 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.000643 main     Process ID: 29118
+00:00:00.000644 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.002072 main     IPC socket path: /tmp/.vbox-elf-ipc/ipcd
+00:00:00.009002 DCon01   VirtualBox: object creation starts
+00:00:00.009060 DCon01   Home directory: '/home/elf/.config/VirtualBox'
+00:00:00.016741 DCon01   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp3s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.017468 DCon01   HostDnsMonitor: initializing
+00:00:00.017580 DCon01   NAT: resolv.conf: nameserver 192.168.1.1
+00:00:00.017589 DCon01   HostDnsMonitor: updating information
+00:00:00.017597 DCon01   HostDnsMonitor: old information
+00:00:00.017599 DCon01     no server entries
+00:00:00.017600 DCon01     no domain set
+00:00:00.017601 DCon01     no search string entries
+00:00:00.017602 DCon01   HostDnsMonitor: new information
+00:00:00.017603 DCon01     server 1: 192.168.1.1
+00:00:00.017604 DCon01     no domain set
+00:00:00.017605 DCon01     no search string entries
+00:00:00.019222 DCon01   VD: VDInit finished with VINF_SUCCESS
+00:00:00.019296 DCon01   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={925084b0-625f-422f-a67d-0ede1880a56c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.019916 DCon01   VirtualBox: object created
+00:00:00.568110 DCon03   Saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.569615 DCon03   Finished saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml"
+00:00:00.607939 DCon03   Saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.609559 DCon03   Finished saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml"
+00:00:00.633793 DCon03   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=false aResultDetail=0
+00:00:01.020863 DCon03   Saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:01.027596 DCon03   Finished saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml"
+00:00:04.987665 DCon03   Saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:04.994650 DCon03   Finished saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml"
+00:00:08.206843 DCon03   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={925084b0-625f-422f-a67d-0ede1880a56c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:08.650282 DCon01   Saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:08.657168 DCon01   Finished saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml"
+00:20:56.442461 DCon58   Saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:20:56.444494 DCon58   Finished saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml"
+00:20:56.446978 DCon58   Saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:20:56.448325 DCon58   Finished saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml"
+00:21:14.594395 DCon55   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={d644ad1e-c501-4fc7-9ab6-aa6d763bc540} aComponent={VirtualBoxWrap} aText={Could not find a registered machine named '{00000000-0000-0000-0000-000000000000}'}, preserve=false aResultDetail=0
+00:21:14.918806 DCon55   Saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:21:14.925867 DCon55   Finished saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml"
+00:21:19.043521 DCon55   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={925084b0-625f-422f-a67d-0ede1880a56c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:21:19.441474 DCon55   Saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:21:19.448221 DCon55   Finished saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml"
+00:22:19.920232 createBase Saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:22:19.923050 createBase Finished saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml"
+00:22:19.933467 DCon61   Platform architecture set to 'x86'
+00:22:19.934066 DCon61   Platform architecture set to 'x86'
+00:22:19.934079 DCon61   Platform architecture set to 'x86'
+00:22:19.934409 DCon61   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:19.934457 DCon61   Platform architecture set to 'x86'
+00:22:19.935629 DCon61   Saving settings file "/home/elf/VirtualBox VMs/plasticity/plasticity.vbox" with version "1.19-linux"
+00:22:19.942448 DCon61   Finished saving settings file "/home/elf/VirtualBox VMs/plasticity/plasticity.vbox"
+00:22:19.942606 DCon61   Saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:22:19.943950 DCon61   Finished saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml"
+00:22:19.945811 DCon55   Platform architecture set to 'x86'
+00:22:19.947724 DCon61   Saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:22:19.949311 DCon61   Finished saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml"
+00:22:19.950351 DCon61   Saving settings file "/home/elf/VirtualBox VMs/plasticity/plasticity.vbox" with version "1.19-linux"
+00:22:19.952733 DCon61   Finished saving settings file "/home/elf/VirtualBox VMs/plasticity/plasticity.vbox"
+00:22:19.955206 DCon55   UnattendedInstaller::initInstaller: UnattendedInstaller::savePassedData(): 
+00:22:19.962785 DCon55   Platform architecture set to 'x86'
+00:22:19.963462 DCon55   Saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:22:19.965881 DCon55   Finished saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml"
+00:22:19.965939 DCon55   Saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:22:19.967315 DCon55   Finished saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml"
+00:22:19.967455 DCon55   Saving settings file "/home/elf/VirtualBox VMs/plasticity/plasticity.vbox" with version "1.19-linux"
+00:22:19.968790 DCon55   Finished saving settings file "/home/elf/VirtualBox VMs/plasticity/plasticity.vbox"
+00:22:19.971374 DCon55   Launched VM: 939660560 pid: 29361 (0x72b1) frontend: GUI/Qt name: plasticity
+00:22:20.002040 DCon61   Saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:22:20.003639 DCon61   Finished saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml"
+00:22:20.292457 DCon63   Saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:22:20.294160 DCon63   Finished saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml"
+00:22:20.302522 DCon61   Platform architecture set to 'x86'
+00:22:20.377483 DCon65   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:20.394599 DCon65   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:22:20.492954 DCon65   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:22:20.576323 DCon65   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:20.578070 DCon65   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:20.886116 DCon61   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:20.886950 DCon61   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:20.887225 DCon61   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:22:20.942433 DCon61   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:20.943185 DCon61   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:20.948166 DCon61   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:22:20.989719 DCon61   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp3s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:22:20.994246 DCon61   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=false aResultDetail=0
+00:22:20.995098 DCon61   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:20.995289 DCon61   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:21.033077 DCon55   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:21.040193 DCon65   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:21.102406 DCon55   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:21.103210 DCon55   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:21.104108 DCon55   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:22:21.119448 DCon55   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:22:21.138582 DCon55   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Starting)}, preserve=false aResultDetail=0
+00:22:21.221568 DCon55   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:21.222637 DCon55   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:21.448898 DCon65   Saving settings file "/home/elf/VirtualBox VMs/plasticity/plasticity.vbox" with version "1.19-linux"
+00:22:21.455657 DCon65   Finished saving settings file "/home/elf/VirtualBox VMs/plasticity/plasticity.vbox"
+00:22:21.460406 DCon66   Saving settings file "/home/elf/VirtualBox VMs/plasticity/plasticity.vbox" with version "1.19-linux"
+00:22:21.462243 DCon66   Finished saving settings file "/home/elf/VirtualBox VMs/plasticity/plasticity.vbox"
+00:22:21.475531 DCon55   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:21.476509 DCon55   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:21.477846 DCon55   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:22:21.482324 DCon55   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:21.557501 DCon55   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:22:21.584693 DCon55   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:22:21.628218 DCon55   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:21.629092 DCon55   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:21.817597 DCon55   Saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:22:21.824263 DCon55   Finished saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml"
+00:22:22.342458 DCon62   Saving settings file "/home/elf/VirtualBox VMs/plasticity/plasticity.vbox" with version "1.19-linux"
+00:22:22.349742 DCon62   Finished saving settings file "/home/elf/VirtualBox VMs/plasticity/plasticity.vbox"
+00:22:22.356284 DCon65   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:22.395613 DCon65   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:22:22.421860 DCon67   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Aborted)}, preserve=false aResultDetail=0
+00:22:22.492071 DCon67   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:22.493887 DCon65   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:24.427579 DCon65   Launched VM: 603985664 pid: 29436 (0x72fc) frontend: GUI/Qt name: plasticity
+00:22:24.483044 DCon67   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:22:24.510340 DCon67   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Aborted)}, preserve=false aResultDetail=0
+00:22:24.619712 DCon67   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:24.620757 DCon67   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:24.730640 DCon64   Platform architecture set to 'x86'
+00:22:24.744457 DCon58   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:22:24.748648 DCon63   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Aborted)}, preserve=false aResultDetail=0
+00:22:24.759399 DCon61   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:24.760507 DCon61   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:24.841641 DCon61   Saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:22:24.843718 DCon61   Finished saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml"
+00:22:25.221488 DCon67   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:25.222717 DCon67   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:25.223033 DCon67   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:22:25.273100 DCon62   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:25.273923 DCon62   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:25.278824 DCon62   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:22:25.321593 DCon62   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp3s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:22:25.326210 DCon62   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=false aResultDetail=0
+00:22:25.327056 DCon62   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:25.327256 DCon62   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:25.363797 DCon67   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:25.366788 DCon67   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:25.421924 DCon61   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:25.422749 DCon61   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:25.423781 DCon61   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:22:25.446213 DCon61   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:22:25.463257 DCon61   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Starting)}, preserve=false aResultDetail=0
+00:22:25.558381 DCon61   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:25.559390 DCon61   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:25.749212 DCon61   Saving settings file "/home/elf/VirtualBox VMs/plasticity/plasticity.vbox" with version "1.19-linux"
+00:22:25.756921 DCon61   Finished saving settings file "/home/elf/VirtualBox VMs/plasticity/plasticity.vbox"
+00:22:25.769622 DCon58   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:25.770510 DCon58   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:25.770966 DCon58   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:25.771798 DCon67   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:22:25.778977 DCon67   ERROR [COM]: aRC=NS_ERROR_INVALID_ARG (0x80070057) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={Properties with TRANSIENT or TRANSRESET flag cannot be set or modified if VM is not running}, preserve=false aResultDetail=0
+00:22:25.870638 DCon67   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:22:25.886968 DCon67   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:22:25.926166 DCon67   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:25.927310 DCon67   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:26.119189 DCon67   Saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:22:26.125920 DCon67   Finished saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml"
+00:22:27.145642 DCon62   Saving settings file "/home/elf/VirtualBox VMs/plasticity/plasticity.vbox" with version "1.19-linux"
+00:22:27.152537 DCon62   Finished saving settings file "/home/elf/VirtualBox VMs/plasticity/plasticity.vbox"
+00:22:27.159402 DCon58   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:27.199141 DCon58   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:22:27.225555 DCon58   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Aborted)}, preserve=false aResultDetail=0
+00:22:27.295713 DCon58   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:27.297217 DCon62   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:29.743820 DCon67   Launched VM: 107017136 pid: 29491 (0x7333) frontend: GUI/Qt name: plasticity
+00:22:29.819227 DCon67   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:22:29.847636 DCon67   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Aborted)}, preserve=false aResultDetail=0
+00:22:29.961250 DCon67   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:29.962340 DCon55   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:30.040536 DCon61   Platform architecture set to 'x86'
+00:22:30.054658 DCon64   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:22:30.059276 DCon58   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Aborted)}, preserve=false aResultDetail=0
+00:22:30.070069 DCon58   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:30.071053 DCon58   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:30.184556 DCon58   Saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:22:30.191190 DCon58   Finished saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml"
+00:22:30.551744 DCon58   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:30.552627 DCon58   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:30.552899 DCon58   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:22:30.610017 DCon58   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:30.610803 DCon58   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:30.615840 DCon67   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:22:30.656444 DCon58   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp3s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:22:30.661074 DCon58   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=false aResultDetail=0
+00:22:30.661991 DCon58   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:30.662195 DCon58   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:30.695064 DCon58   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:30.698605 DCon61   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:30.759443 DCon61   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:30.760424 DCon61   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:30.761613 DCon58   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:22:30.777246 DCon58   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:22:30.794909 DCon61   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Starting)}, preserve=false aResultDetail=0
+00:22:30.880825 DCon58   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:30.881872 DCon58   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:31.096373 DCon58   Saving settings file "/home/elf/VirtualBox VMs/plasticity/plasticity.vbox" with version "1.19-linux"
+00:22:31.103260 DCon58   Finished saving settings file "/home/elf/VirtualBox VMs/plasticity/plasticity.vbox"
+00:22:31.115941 DCon58   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:31.116752 DCon58   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:31.116971 DCon58   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:31.117947 DCon62   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:22:31.126159 DCon62   ERROR [COM]: aRC=NS_ERROR_INVALID_ARG (0x80070057) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={Properties with TRANSIENT or TRANSRESET flag cannot be set or modified if VM is not running}, preserve=false aResultDetail=0
+00:22:31.213410 DCon58   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:22:31.230041 DCon58   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:22:31.271402 DCon56   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:31.272513 DCon56   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:31.486269 DCon56   Saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:22:31.493003 DCon56   Finished saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml"
+00:22:32.511406 DCon55   Saving settings file "/home/elf/VirtualBox VMs/plasticity/plasticity.vbox" with version "1.19-linux"
+00:22:32.518514 DCon55   Finished saving settings file "/home/elf/VirtualBox VMs/plasticity/plasticity.vbox"
+00:22:32.524632 DCon67   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:32.569614 DCon55   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:22:32.595731 DCon55   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Aborted)}, preserve=false aResultDetail=0
+00:22:32.661634 DCon67   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:22:32.662893 DCon67   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:23:29.016570 DCon58   Saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:23:29.024891 DCon58   Finished saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml"
+00:24:13.852945 DCon69   Launched VM: 1006637392 pid: 29593 (0x7399) frontend: GUI/Qt name: plasticity
+00:24:13.904174 DCon70   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:24:13.930747 DCon71   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Aborted)}, preserve=false aResultDetail=0
+00:24:14.034078 DCon71   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:24:14.035060 DCon70   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:24:14.138373 DCon72   Platform architecture set to 'x86'
+00:24:14.152099 DCon69   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:24:14.156492 DCon69   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Aborted)}, preserve=false aResultDetail=0
+00:24:14.166755 DCon69   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:24:14.167622 DCon69   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:24:14.293684 DCon69   Saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:24:14.300755 DCon69   Finished saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml"
+00:24:14.646568 DCon71   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:24:14.647487 DCon71   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:24:14.647849 DCon71   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:24:14.699851 DCon71   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:24:14.700655 DCon71   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:24:14.705958 DCon71   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:24:14.747885 DCon71   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp3s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:24:14.752232 DCon71   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=false aResultDetail=0
+00:24:14.753087 DCon71   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:24:14.753290 DCon71   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:24:14.779601 DCon71   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:24:14.791367 DCon71   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:24:14.852566 DCon67   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:24:14.853344 DCon67   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:24:14.854245 DCon67   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:24:14.861707 DCon67   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:24:14.878918 DCon67   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Starting)}, preserve=false aResultDetail=0
+00:24:14.964773 DCon67   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:24:14.965842 DCon67   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:24:14.968502 DCon67   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:24:14.969657 DCon68   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:24:14.970852 DCon68   HostDnsMonitorProxy::GetDomainName: no domain set
+00:24:14.970942 DCon68   HostDnsMonitorProxy::GetNameServers:
+00:24:14.970945 DCon68     name server 1: 192.168.1.1
+00:24:14.971054 DCon68   HostDnsMonitorProxy::GetSearchStrings:
+00:24:14.971062 DCon68     no search string entries
+00:24:14.986236 DCon70   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:24:14.987134 DCon67   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:24:14.988534 DCon68   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:24:15.006039 DCon67   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:24:15.075905 DCon67   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:24:15.121865 DCon68   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+00:24:15.165143 DCon68   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:24:15.166068 DCon68   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:24:15.217885 DCon68   Saving settings file "/home/elf/VirtualBox VMs/plasticity/plasticity.vbox" with version "1.19-linux"
+00:24:15.224561 DCon68   Finished saving settings file "/home/elf/VirtualBox VMs/plasticity/plasticity.vbox"
+00:24:15.232792 DCon74   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:24:15.243412 DCon74   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+00:24:15.252740 DCon74   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:24:15.253727 DCon74   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:24:15.334373 DCon74   Saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:24:15.341537 DCon74   Finished saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml"
+00:24:18.630575 DCon71   Saving settings file "/home/elf/VirtualBox VMs/plasticity/plasticity.vbox" with version "1.19-linux"
+00:24:18.637189 DCon71   Finished saving settings file "/home/elf/VirtualBox VMs/plasticity/plasticity.vbox"
+00:24:18.644218 DCon72   Saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:24:18.645590 DCon72   Finished saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml"
+00:24:18.648186 DCon72   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:24:18.657831 DCon74   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+00:24:18.666848 DCon74   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:24:18.667759 DCon74   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:24:32.445955 DCon69   Saving settings file "/home/elf/VirtualBox VMs/plasticity/plasticity.vbox" with version "1.19-linux"
+00:24:32.447582 DCon69   Finished saving settings file "/home/elf/VirtualBox VMs/plasticity/plasticity.vbox"
+00:24:32.456290 DCon69   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:24:32.501072 DCon69   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+00:24:32.511317 DCon69   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:24:32.512414 DCon69   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:25:34.730226 DCon69   Saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:25:34.736774 DCon69   Finished saving settings file "/home/elf/.config/VirtualBox/VirtualBox.xml"
+00:34:02.721225 DCon86   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:34:02.722032 DCon86   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:34:02.723396 DCon86   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:34:06.615489 DCon86   Saving settings file "/home/elf/VirtualBox VMs/plasticity/plasticity.vbox" with version "1.19-linux"
+00:34:06.622244 DCon86   Finished saving settings file "/home/elf/VirtualBox VMs/plasticity/plasticity.vbox"
+00:34:06.644580 DCon86   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:34:06.645300 DCon86   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:34:06.646321 DCon86   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:34:06.648087 DCon86   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Stopping)}, preserve=false aResultDetail=0
+00:34:06.726463 DCon86   Saving settings file "/home/elf/VirtualBox VMs/plasticity/plasticity.vbox" with version "1.19-linux"
+00:34:06.732022 DCon86   Finished saving settings file "/home/elf/VirtualBox VMs/plasticity/plasticity.vbox"
+00:34:06.743901 DCon86   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:34:06.744979 DCon86   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true aResultDetail=0
+00:34:06.746256 DCon86   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:34:06.904998 DCon91   ERROR [COM]: aRC=NS_ERROR_INVALID_ARG (0x80070057) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={Properties with TRANSIENT or TRANSRESET flag cannot be set or modified if VM is not running}, preserve=false aResultDetail=0
+00:34:12.741416 main     VirtualBox: object deletion starts
+00:34:12.741449 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Medium '/home/elf/VirtualBox VMs/plasticity/plasticity.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:34:12.742000 main     HostDnsMonitor: shutting down ...
+00:34:12.742339 main     HostDnsMonitor: shut down
+00:34:12.753085 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d644ad1e-c501-4fc7-9ab6-aa6d763bc540} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:34:12.753145 main     VirtualBox: object deleted
