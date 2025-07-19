@@ -6,6 +6,9 @@
         "workspaces": [],
         "folders": [
             {
+                "folderUri": "file:///home/elf/.config/scripts/rofi"
+            },
+            {
                 "folderUri": "file:///home/elf/.config"
             }
         ],
@@ -23,7 +26,44 @@
             "file:///usr/lib/plasticity/resources/app/.webpack/main": "__default__profile__",
             "file:///home/elf/.fusion360": "__default__profile__",
             "file:///home/elf/prog/docker_test": "__default__profile__",
-            "file:///home/elf/.config": "__default__profile__"
+            "file:///home/elf/.config": "__default__profile__",
+            "file:///home/elf/cracks/Plasticity_crack/Version%201.4.10": "__default__profile__",
+            "file:///home/elf/prog/helpy_bot/ai": "__default__profile__",
+            "file:///home/elf/prog/helpy_bot": "__default__profile__",
+            "file:///home/elf/dwnld/monitor/%D0%97%D0%B0%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8_%D0%B0%D0%BA%D1%81%D0%B5%D0%BB%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80": "__default__profile__",
+            "file:///home/elf/cracks/Plasticity_crack": "__default__profile__",
+            "file:///home/elf/prog/School21_Msk_LabBot": "__default__profile__",
+            "file:///home/elf/prog/monitor_for_meeting_room/sources": "__default__profile__",
+            "file:///home/elf/dwnld/School21_Msk_LabBot": "__default__profile__",
+            "file:///home/elf/prog/test_lisp": "__default__profile__",
+            "vscode-remote://ssh-remote%2Bmonitor/home/monitor/monitor_for_meeting_room": "__default__profile__",
+            "vscode-remote://ssh-remote%2Bmonitor/home/monitor/Desktop/monitor_for_meeting_room": "__default__profile__",
+            "vscode-remote://ssh-remote%2Bmonitor_claster/home/pi/Cluster_monitor": "__default__profile__",
+            "vscode-remote://ssh-remote%2Bmonitor_claster/home/pi": "__default__profile__",
+            "file:///home/elf/prog/21School-Cluster-Activity-Monitor": "__default__profile__",
+            "file:///home/elf/prog/21School-Cluster-Activity-Monitor/software/Raspberry": "__default__profile__",
+            "file:///home/elf/prog/conveyer": "__default__profile__",
+            "file:///home/elf/.config/i3": "__default__profile__",
+            "file:///home/elf/.config/scripts/rofi": "__default__profile__",
+            "file:///home/elf/prog/bot_template": "__default__profile__",
+            "vscode-remote://ssh-remote%2Bmonitor_circle/home/monitor": "__default__profile__",
+            "file:///home/elf/prog/21School-Cluster-Activity-Monitor/software": "__default__profile__",
+            "file:///home/elf/prog/marketing_bot": "__default__profile__",
+            "file:///home/elf/prog/conveyer/esp2": "__default__profile__",
+            "file:///home/elf/prog/marketing_bot/taro": "__default__profile__",
+            "file:///home/elf/.config/pulse": "__default__profile__",
+            "vscode-remote://ssh-remote%2Bmonitor_claster/home/pi/2025_version/21School-Cluster-Activity-Monitor/software/Raspberry": "__default__profile__",
+            "vscode-remote://ssh-remote%2Bmonitor_claster/home/pi/2025_version/21School-Cluster-Activity-Monitor": "__default__profile__",
+            "file:///home/elf/prog/test_nlp": "__default__profile__",
+            "file:///home/elf/prog/marketing_bot/taro/img": "__default__profile__",
+            "file:///home/elf/prog/esp32": "__default__profile__",
+            "file:///home/elf/prog/esp32/micro_bot": "__default__profile__",
+            "file:///home/elf/prog/tests": "__default__profile__",
+            "file:///home/elf/prog/marketing_bot/taro_bot": "__default__profile__",
+            "file:///home/elf/Arduino/libraries/PCA95x5/examples": "__default__profile__",
+            "file:///home/elf/Arduino/libraries/PCA95x5": "__default__profile__",
+            "file:///home/elf/.config/touchegg": "__default__profile__",
+            "file:///home/elf/prog/rev": "__default__profile__"
         },
         "emptyWindows": {}
     },
@@ -97,80 +137,34 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/elf/prog/monitor_for_meeting_room",
-                                        "path": "/home/elf/prog/monitor_for_meeting_room",
+                                        "external": "file:///home/elf/.config/scripts/rofi",
+                                        "path": "/home/elf/.config/scripts/rofi",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/prog/monitor_for_meeting_room"
+                                    "label": "~/.config/scripts/rofi"
                                 },
                                 {
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/elf/prog/docker_test",
-                                        "path": "/home/elf/prog/docker_test",
+                                        "external": "file:///home/elf/.config/i3",
+                                        "path": "/home/elf/.config/i3",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/prog/docker_test"
+                                    "label": "~/.config/i3"
                                 },
                                 {
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/elf/prog",
-                                        "path": "/home/elf/prog",
+                                        "external": "file:///home/elf/prog/rev",
+                                        "path": "/home/elf/prog/rev",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/prog"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///usr/lib/plasticity/resources/app/.webpack/main",
-                                        "path": "/usr/lib/plasticity/resources/app/.webpack/main",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "/usr/lib/plasticity/resources/app/.webpack/main"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/elf/dwnld/plasticity-bin",
-                                        "path": "/home/elf/dwnld/plasticity-bin",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/dwnld/plasticity-bin"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "vscode-remote://ssh-remote%2Bmonitor_circle/home/monitor/monitor_for_meeting_room",
-                                        "path": "/home/monitor/monitor_for_meeting_room",
-                                        "scheme": "vscode-remote",
-                                        "authority": "ssh-remote+monitor_circle"
-                                    },
-                                    "remoteAuthority": "ssh-remote+monitor_circle",
-                                    "enabled": true,
-                                    "label": "~/monitor_for_meeting_room [SSH: monitor_circle]"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/elf/dwnld",
-                                        "path": "/home/elf/dwnld",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/dwnld"
+                                    "label": "~/prog/rev"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -184,18 +178,173 @@
                                     "label": "~/.config/scripts"
                                 },
                                 {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/elf/prog/marketing_bot/taro_bot",
+                                        "path": "/home/elf/prog/marketing_bot/taro_bot",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/prog/marketing_bot/taro_bot"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/elf/.config/pulse",
+                                        "path": "/home/elf/.config/pulse",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/pulse"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/elf/Arduino/libraries/PCA95x5",
+                                        "path": "/home/elf/Arduino/libraries/PCA95x5",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Arduino/libraries/PCA95x5"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/elf/Arduino/libraries/PCA95x5/examples",
+                                        "path": "/home/elf/Arduino/libraries/PCA95x5/examples",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Arduino/libraries/PCA95x5/examples"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/elf/prog/esp32/micro_bot",
+                                        "path": "/home/elf/prog/esp32/micro_bot",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/prog/esp32/micro_bot"
+                                },
+                                {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///run/media/elf/30F0-6975/cura/5.2/cache/definitions/5.2.2/flyingbear_base_extruder_0",
-                                        "path": "/run/media/elf/30F0-6975/cura/5.2/cache/definitions/5.2.2/flyingbear_base_extruder_0",
+                                        "external": "file:///home/elf/responses.log",
+                                        "path": "/home/elf/responses.log",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "/run/media/elf/30F0-6975/cura/5.2/cache/definitions/5.2.2/flyingbear_base_extruder_0"
+                                    "label": "~/responses.log"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/elf/dwnld/%D0%98%D0%94%D0%91%D0%9E%20%D1%84%D0%B8%D0%B7..%D0%BB%D0%B8%D1%86%D0%B0.pdf",
+                                        "path": "/home/elf/dwnld/ИДБО физ..лица.pdf",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/dwnld/ИДБО физ..лица.pdf"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "vscode-remote://ssh-remote%2Bmonitor_claster/lib/systemd/system/monitor.service",
+                                        "path": "/lib/systemd/system/monitor.service",
+                                        "scheme": "vscode-remote",
+                                        "authority": "ssh-remote+monitor_claster"
+                                    },
+                                    "enabled": true,
+                                    "label": "/lib/systemd/system/monitor.service"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/elf/dwnld/ClusterMonitor_newchip/Core/Src/main.c",
+                                        "path": "/home/elf/dwnld/ClusterMonitor_newchip/Core/Src/main.c",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/dwnld/ClusterMonitor_newchip/Core/Src/main.c"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/elf/dwnld/ClusterMonitor_newchip/Core/Src/DigiLed.c",
+                                        "path": "/home/elf/dwnld/ClusterMonitor_newchip/Core/Src/DigiLed.c",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/dwnld/ClusterMonitor_newchip/Core/Src/DigiLed.c"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/elf/dwnld/ClusterMonitor_newchip/Core/Src/LightEffect.c",
+                                        "path": "/home/elf/dwnld/ClusterMonitor_newchip/Core/Src/LightEffect.c",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/dwnld/ClusterMonitor_newchip/Core/Src/LightEffect.c"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/elf/dwnld/ClusterMonitor_newchip/Core/Src/sk9822.c",
+                                        "path": "/home/elf/dwnld/ClusterMonitor_newchip/Core/Src/sk9822.c",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/dwnld/ClusterMonitor_newchip/Core/Src/sk9822.c"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/elf/dwnld/ClusterMonitor_newchip/Core/Src/stm32f0xx_hal_msp.c",
+                                        "path": "/home/elf/dwnld/ClusterMonitor_newchip/Core/Src/stm32f0xx_hal_msp.c",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/dwnld/ClusterMonitor_newchip/Core/Src/stm32f0xx_hal_msp.c"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/elf/dwnld/ClusterMonitor_newchip/Core/Src/stm32f0xx_it.c",
+                                        "path": "/home/elf/dwnld/ClusterMonitor_newchip/Core/Src/stm32f0xx_it.c",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/dwnld/ClusterMonitor_newchip/Core/Src/stm32f0xx_it.c"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/elf/dwnld/ClusterMonitor_newchip/Core/Src/syscalls.c",
+                                        "path": "/home/elf/dwnld/ClusterMonitor_newchip/Core/Src/syscalls.c",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/dwnld/ClusterMonitor_newchip/Core/Src/syscalls.c"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -327,8 +476,9 @@
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
-                                    "id": "workbench.userDataSync.actions.turnOn",
-                                    "label": "Backup and Sync Settings..."
+                                    "id": "workbench.userDataSync.actions.manage",
+                                    "label": "Settings Sync is On",
+                                    "checked": true
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -765,6 +915,13 @@
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
+                                    "id": "workbench.action.splitEditorInGroup",
+                                    "label": "Split in &&Group"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
                                     "id": "workbench.action.moveEditorToNewWindow",
                                     "label": "&&Move Editor into New Window"
                                 },
@@ -864,8 +1021,7 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap",
-                        "enabled": false
+                        "label": "&&Word Wrap"
                     }
                 ]
             },
@@ -873,8 +1029,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -883,8 +1038,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1556,6 +1710,11 @@
                 "isNative": false,
                 "userSettingsLabel": "ctrl+k ctrl+\\"
             },
+            "workbench.action.splitEditorInGroup": {
+                "label": "Ctrl+K Ctrl+Shift+\\",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k ctrl+shift+\\"
+            },
             "workbench.action.copyEditorToNewWindow": {
                 "label": "Ctrl+K O",
                 "isNative": false,
@@ -1789,8 +1948,7 @@
                 "x": 22,
                 "y": 48,
                 "width": 1876,
-                "height": 973,
-                "zoomLevel": 1
+                "height": 973
             }
         },
         "openedWindows": []
@@ -1819,7 +1977,7 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 35,
             "activityBarWidth": 48,
-            "sideBarWidth": 170,
+            "sideBarWidth": 338,
             "statusBarHeight": 22,
             "windowBorder": false
         }

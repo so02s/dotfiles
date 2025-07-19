@@ -2,5 +2,16 @@
     "workbench.editor.empty.hint": "hidden",
     "window.customTitleBarVisibility": "auto",
     "workbench.sideBar.location": "right",
-    "window.menuBarVisibility": "toggle"
+    "window.menuBarVisibility": "toggle",
+    "python.createEnvironment.trigger": "off",
+    "c4.diagram.structurizr.enabled": true,
+    "c4.diagram.plantuml.enabled": true,
+    "c4.diagram.renderer": "structurizr",
+    "c4.languageserver.connectiontype": "auto",
+    "workbench.startupEditor": "none",
+    "idf.hasWalkthroughBeenShown": true,
+    "idf.espIdfPath": "/home/elf/esp/v5.4.1/esp-idf",
+    "idf.toolsPath": "/home/elf/.espressif",
+    "idf.gitPath": "/usr/bin/git",
+    "idf.pythonInstallPath": "/home/elf/prog/esp32/venvESP32/bin/python3"
 }

@@ -1,0 +1,4 @@
+#!/bin/bash
+
+vivaldi https://web.telegram.org/
+i3-msg [class="Vivaldi"] focus

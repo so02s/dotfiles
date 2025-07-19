@@ -1,0 +1,23 @@
+#!/bin/bash
+
+MOUNT_POINT="/home/elf/secondbrain"
+REMOTE_PATH="so02s@glitch-domain.asuscomm.com:/home/so02s/glitch"
+
+# 188.244.4.236
+# glitch-domain.asuscomm.com
+# Добавить проверку на VPN
+
+if mount | grep -q "$MOUNT_POINT"; then
+    echo "Папка $MOUNT_POINT смонтирована, выполняется размонтирование..."
+    fusermount -u "$MOUNT_POINT" || sudo umount -l "$MOUNT_POINT"
+else
+    echo "Папка $MOUNT_POINT не смонтирована"
+fi
+
+if ! mount | grep -q "$MOUNT_POINT"; then
+    echo "Монтируем папку..."
+    sshfs -p 2342 -o ConnectTimeout=3,ConnectionAttempts=1,ServerAliveInterval=5,ServerAliveCountMax=3\
+    "$REMOTE_PATH" "$MOUNT_POINT"
+fi
+
+# sshfs -p 2224 so02s@192.168.1.208:/home/so02s/glitch /home/elf/secondbrain

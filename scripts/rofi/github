@@ -1,0 +1,4 @@
+#!/bin/bash
+
+vivaldi https://github.com/so02s?tab=repositories
+i3-msg [class="Vivaldi"] focus

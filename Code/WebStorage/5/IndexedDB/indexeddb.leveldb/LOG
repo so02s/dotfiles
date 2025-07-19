@@ -1,14 +1,14 @@
-2025/01/26-13:42:07.247 995 Reusing MANIFEST /home/elf/.config/Code/WebStorage/5/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2025/01/26-13:42:07.248 995 Recovering log #133
-2025/01/26-13:42:07.248 995 Reusing old log /home/elf/.config/Code/WebStorage/5/IndexedDB/indexeddb.leveldb/000133.log 
-2025/01/26-13:42:07.248 995 Delete type=2 #131
-2025/01/26-13:42:07.334 9ad Level-0 table #138: started
-2025/01/26-13:42:07.335 9ad Level-0 table #138: 662 bytes OK
-2025/01/26-13:42:07.336 9ad Delete type=0 #133
-2025/01/26-13:42:07.336 995 Manual compaction at level-0 from '\x00&\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00'\x00\x00\x00' @ 0 : 0; will stop at '\x00&\x00\x00\x05' @ 781 : 1
-2025/01/26-13:42:07.336 995 Compacting 1@0 + 1@1 files
-2025/01/26-13:42:07.338 995 Generated table #139@0: 27 keys, 1128 bytes
-2025/01/26-13:42:07.338 995 Compacted 1@0 + 1@1 files => 1128 bytes
-2025/01/26-13:42:07.339 995 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/01/26-13:42:07.339 995 Delete type=2 #138
-2025/01/26-13:42:07.340 995 Manual compaction at level-0 from '\x00&\x00\x00\x05' @ 781 : 1 .. '\x00'\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/05/21-18:15:49.120 3b55 Reusing MANIFEST /home/elf/.config/Code/WebStorage/5/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/05/21-18:15:49.120 3b55 Recovering log #1056
+2025/05/21-18:15:49.121 3b55 Reusing old log /home/elf/.config/Code/WebStorage/5/IndexedDB/indexeddb.leveldb/001056.log 
+2025/05/21-18:15:49.121 3b55 Delete type=2 #1055
+2025/05/21-18:15:49.208 3b6d Level-0 table #1061: started
+2025/05/21-18:15:49.210 3b6d Level-0 table #1061: 669 bytes OK
+2025/05/21-18:15:49.211 3b6d Delete type=0 #1056
+2025/05/21-18:15:49.211 3b55 Manual compaction at level-0 from ' \x08\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' \x09\x01\x00\x00\x00' @ 0 : 0; will stop at ' \x08\x01\x00\x00\x05' @ 5793 : 1
+2025/05/21-18:15:49.211 3b55 Compacting 1@0 + 1@1 files
+2025/05/21-18:15:49.212 3b55 Generated table #1062@0: 11 keys, 645 bytes
+2025/05/21-18:15:49.212 3b55 Compacted 1@0 + 1@1 files => 645 bytes
+2025/05/21-18:15:49.213 3b55 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/21-18:15:49.213 3b55 Delete type=2 #1061
+2025/05/21-18:15:49.213 3b55 Manual compaction at level-0 from ' \x08\x01\x00\x00\x05' @ 5793 : 1 .. ' \x09\x01\x00\x00\x00' @ 0 : 0; will stop at (end)

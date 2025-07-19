@@ -1,0 +1,4 @@
+#!/bin/bash
+
+code /home/elf/.config/scripts/rofi
+i3-msg [class="Code"] focus

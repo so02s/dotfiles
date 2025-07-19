@@ -31,5 +31,7 @@ style = "Regular"
 [keyboard]
 bindings = [
   { key = "ArrowLeft", mods = "Control", chars = "\u001bb" },
-  { key = "ArrowRight", mods = "Control", chars = "\u001bf" }
+  { key = "ArrowRight", mods = "Control", chars = "\u001bf" },
+  { key = "ArrowLeft", mods = "Control|Shift", action = "First" },
+  { key = "ArrowRight", mods = "Control|Shift", action = "Last" }
 ]

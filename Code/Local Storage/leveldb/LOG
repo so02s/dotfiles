@@ -1,3 +1,3 @@
-2025/01/26-13:41:11.054 996 Reusing MANIFEST /home/elf/.config/Code/Local Storage/leveldb/MANIFEST-000001
-2025/01/26-13:41:11.062 996 Recovering log #3
-2025/01/26-13:41:11.062 996 Reusing old log /home/elf/.config/Code/Local Storage/leveldb/000003.log 
+2025/07/19-11:25:29.702 e42a Reusing MANIFEST /home/elf/.config/Code/Local Storage/leveldb/MANIFEST-000001
+2025/07/19-11:25:29.706 e42a Recovering log #607
+2025/07/19-11:25:29.707 e42a Reusing old log /home/elf/.config/Code/Local Storage/leveldb/000607.log 

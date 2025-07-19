@@ -1,0 +1,4 @@
+#!/bin/bash
+
+vivaldi https://www.blackbox.ai
+i3-msg [class="Vivaldi"] focus

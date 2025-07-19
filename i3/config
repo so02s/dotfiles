@@ -24,6 +24,8 @@ bindsym ctrl+space exec sh ~/.config/scripts/change_layout.sh
 
 # rofi menu
 bindsym $alt+space exec sleep 0.2 && rofi -show run -theme ~/.config/rofi/themes/gruvbox-material.rasi
+# bindsym $alt+space exec --no-startup-id bash -c 'selected=$(ls ~/.config/scripts/rofi/ | rofi -dmenu -p "Runnn: " -theme ~/.config/rofi/themes/gruvbox-material.rasi) && bash ~/.config/scripts/rofi/$selected'
+# bindsym $alt+space exec sh ~/.config/scripts/rofi_add.sh
 
 # lockscreen
 bindsym $alt+x exec ~/.config/scripts/lock
@@ -172,4 +174,6 @@ mode "resize" {
 }
 
 bindsym $mod+r mode "resize"
-
+# для изменения яркости, надо что-то придумать
+# bindsym $mod+F5 exec "brightnessctl set +10%"
+# bindsym $mod+F4 exec "brightnessctl set 10%-"

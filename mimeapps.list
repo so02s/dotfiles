@@ -5,6 +5,15 @@ x-scheme-handler/https=vivaldi-stable.desktop
 x-scheme-handler/about=vivaldi-stable.desktop
 x-scheme-handler/unknown=vivaldi-stable.desktop
 application/octet-stream=code.desktop
+application/x-zerosize=code.desktop
+application/vnd.appimage=adskidmgr-opener.desktop
 
 [Added Associations]
 application/octet-stream=code.desktop;
+application/x-zerosize=code.desktop;
+application/vnd.appimage=adskidmgr-opener.desktop;
+application/pdf=vivaldi-stable.desktop;
+application/vnd.corel-draw=krita_tga.desktop;
+text/plain=libreoffice-writer.desktop;org.kicad.eeschema.desktop;
+text/markdown=code.desktop;obsidian.desktop;
+image/jpeg=krita_jpeg.desktop;shutter.desktop;

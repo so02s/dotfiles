@@ -1,0 +1,4 @@
+#!/bin/bash
+
+vivaldi https://www.youtube.com
+i3-msg [class="Vivaldi"] focus

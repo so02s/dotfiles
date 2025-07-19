@@ -1,14 +1,17 @@
-2025/01/26-13:32:58.006 587 Reusing MANIFEST /home/elf/.config/Code/WebStorage/5/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2025/01/26-13:32:58.006 587 Recovering log #129
-2025/01/26-13:32:58.006 587 Reusing old log /home/elf/.config/Code/WebStorage/5/IndexedDB/indexeddb.leveldb/000129.log 
-2025/01/26-13:32:58.006 587 Delete type=2 #127
-2025/01/26-13:32:58.056 59f Level-0 table #134: started
-2025/01/26-13:32:58.058 59f Level-0 table #134: 1290 bytes OK
-2025/01/26-13:32:58.059 59f Delete type=0 #129
-2025/01/26-13:32:58.059 587 Manual compaction at level-0 from '\x00%\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00&\x00\x00\x00' @ 0 : 0; will stop at '\x00%\x00\x00\x05' @ 762 : 1
-2025/01/26-13:32:58.059 587 Compacting 1@0 + 1@1 files
-2025/01/26-13:32:58.060 587 Generated table #135@0: 27 keys, 1130 bytes
-2025/01/26-13:32:58.061 587 Compacted 1@0 + 1@1 files => 1130 bytes
-2025/01/26-13:32:58.061 587 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/01/26-13:32:58.062 587 Delete type=2 #134
-2025/01/26-13:32:58.062 587 Manual compaction at level-0 from '\x00%\x00\x00\x05' @ 762 : 1 .. '\x00&\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/05/11-17:24:04.587 569a Reusing MANIFEST /home/elf/.config/Code/WebStorage/5/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/05/11-17:24:04.587 569a Recovering log #1049
+2025/05/11-17:24:04.587 569a Reusing old log /home/elf/.config/Code/WebStorage/5/IndexedDB/indexeddb.leveldb/001049.log 
+2025/05/11-17:24:04.722 56b2 Level-0 table #1055: started
+2025/05/11-17:24:04.724 56b2 Level-0 table #1055: 646 bytes OK
+2025/05/11-17:24:04.725 56b2 Delete type=0 #1049
+2025/05/11-17:24:04.725 569b Manual compaction at level-0 from ' \x06\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' \x07\x01\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/05/11-17:24:09.961 569a Level-0 table #1057: started
+2025/05/11-17:24:09.962 569a Level-0 table #1057: 672 bytes OK
+2025/05/11-17:24:09.964 569a Delete type=0 #1054
+2025/05/11-17:24:09.964 569a Manual compaction at level-0 from ' \x07\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' \x08\x01\x00\x00\x00' @ 0 : 0; will stop at ' \x07\x01\x00\x00\x05' @ 5774 : 1
+2025/05/11-17:24:09.964 569a Compacting 1@0 + 1@1 files
+2025/05/11-17:24:09.965 569a Generated table #1058@0: 11 keys, 644 bytes
+2025/05/11-17:24:09.965 569a Compacted 1@0 + 1@1 files => 644 bytes
+2025/05/11-17:24:09.966 569a compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/11-17:24:09.966 569a Delete type=2 #1057
+2025/05/11-17:24:09.966 569a Manual compaction at level-0 from ' \x07\x01\x00\x00\x05' @ 5774 : 1 .. ' \x08\x01\x00\x00\x00' @ 0 : 0; will stop at (end)

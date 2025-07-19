@@ -1,0 +1,4 @@
+#!/bin/bash
+
+vivaldi https://chat.deepseek.com
+i3-msg [class="Vivaldi"] focus
